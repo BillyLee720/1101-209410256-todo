@@ -4,7 +4,7 @@ function Todo_56(props) {
       <div className="card">
         <h2>{props.text}</h2>
         <div className="actions">
-          <button className="btn">Delete</button>
+          <button className="btn">Add</button>
         </div>
       </div>
     </div>
